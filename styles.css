@@ -1,0 +1,123 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-header {
+    background-color: #1F2937;
+    padding: 8px 15%;
+}
+
+.hero-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-logo-text {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header-links {
+    display: flex;
+    font-size: 18px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    gap: 8px;
+}
+
+.header-links a:link{
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+}
+
+.hero-main {
+
+}
+
+.main-text {
+
+}
+
+.secondary-text {
+
+}
+
+.hero-sign-up {
+
+}
+
+.image {
+
+}
+
+.information {
+    padding: 8px 15%;
+}
+
+.info-title {
+
+}
+
+.info-container {
+
+}
+
+.image-text {
+
+}
+
+.info-image {
+
+}
+
+.info-text {
+
+}
+
+.quote {
+    padding: 8px 15%;
+}
+
+.quote-text {
+
+}
+
+.quote-author {
+
+}
+
+.call-to-action {
+    padding: 8px 15%;
+}
+
+.action-container {
+
+}
+
+.action-title {
+
+}
+
+.action-text {
+
+}
+
+.action-sign-up {
+
+}
+
+.footer {
+    padding: 8px 15%;
+}
+
+.footer-text {
+    
+}
