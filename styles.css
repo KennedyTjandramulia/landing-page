@@ -27,7 +27,7 @@ body {
     list-style-type: none;
     padding: 0;
     margin: 0;
-    gap: 8px;
+    gap: 24px;
 }
 
 .header-links a:link{
@@ -38,6 +38,7 @@ body {
 .hero {
     display: flex;
     align-items: center;
+    padding: 64px 0;
 }
 
 .hero-main {
@@ -56,11 +57,20 @@ body {
 }
 
 .hero-sign-up {
-
+    border-radius: 8px;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 8px 24px;
+    margin-top: 16px;
+    border: none
 }
 
 .image-placeholder {
-
+    width: 1000;
+    height: 1000;
+    background-color: gray;
 }
 
 .information {
