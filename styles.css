@@ -6,7 +6,7 @@ body {
 
 .hero-header {
     background-color: #1F2937;
-    padding: 8px 15%;
+    padding: 16px 15%;
 }
 
 .hero-heading {
@@ -39,7 +39,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 64px 0;
+    padding: 128px 0;
     gap: 32px;
 }
 
@@ -76,7 +76,7 @@ body {
     align-items: center;
     justify-content: center;
     width: 50%;
-    background-color: #92959B;
+    background-color: #878D9A;
     color: #E5E7EB;
 }
 
