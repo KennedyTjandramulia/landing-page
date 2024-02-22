@@ -86,7 +86,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 8px 15% 128px;
+    padding: 8px 15% 96px;
 }
 
 .info-title {
@@ -127,6 +127,7 @@ body {
 
 .quote {
     padding: 8px 15%;
+    background-color: #E5E7EB;
 }
 
 .quote-text {
