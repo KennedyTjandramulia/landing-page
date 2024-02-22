@@ -126,16 +126,21 @@ body {
 }
 
 .quote {
-    padding: 8px 15%;
+    padding: 64px 15%;
     background-color: #E5E7EB;
 }
 
 .quote-text {
-
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    padding: 0 128px;
 }
 
 .quote-author {
-
+    text-align: right;
+    font-size: 36px;
+    padding: 0 128px;
 }
 
 .call-to-action {
